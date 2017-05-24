@@ -1,0 +1,9 @@
+{
+  "name": "lexical-analyzer",
+  "version": "0.0.0",
+  "description": "Lexical Analyzer",
+  "main": "app.js",
+  "author": {
+    "name": "Keposmile"
+  }
+}
